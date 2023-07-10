@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ManagementLeaveAppCoreMVC6.props" />
+</Project>
